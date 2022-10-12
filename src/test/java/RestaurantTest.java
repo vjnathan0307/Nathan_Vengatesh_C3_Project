@@ -43,7 +43,10 @@ class RestaurantTest {
 
         boolean result = restaurant.isRestaurantOpen();
 
+        
         assertFalse(result);
+
+        //failing test case
 
     }
 
